@@ -1,7 +1,7 @@
-* 👋 Hi there 
+* 👋 Hi there, I'm Aviv Landesman
 * 📫 How to reach me:
-* Email: aviv13523@gmail.com
-* Linkedin: https://www.linkedin.com/in/avivlan/
+  * Email: aviv13523@gmail.com
+  * Linkedin: https://www.linkedin.com/in/avivlan/
 
 <!--
 **avivlan/avivlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
